@@ -1,5 +1,5 @@
 --- 
-title: "Faylab Lab Manual"
+title: "Environmental Geophysics Group Lab Manual"
 author: "Gavin Fay & Ashleigh Novak"
 date: "Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
